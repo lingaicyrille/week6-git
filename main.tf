@@ -12,4 +12,4 @@ user_data = <<-EOF
               echo '<h1>This is deployed by lingaicyrille </h1>' | sudo tee /var/www/html/index.html
               EOF
 }
-}  
+ 
